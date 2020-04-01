@@ -1,0 +1,11 @@
+wi-day-sunny
+
+wi-day-thunderstorm
+
+wi-rain-wind
+
+wi-day-cloudy
+
+wi-night-clear
+
+wi-night-partly-cloudy
